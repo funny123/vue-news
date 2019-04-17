@@ -1,6 +1,6 @@
 module.exports = {
   outputDir: 'docs',
-  publicPath: '/vue-news',
+  publicPath: './',
   assetsDir: undefined,
   runtimeCompiler: undefined,
   productionSourceMap: undefined,
